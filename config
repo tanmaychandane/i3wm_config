@@ -168,3 +168,4 @@ bindsym XF86MonBrightnessUp exec .bin/brightness + 500
 
 # Autostart applications/ execute commands
 exec redshift
+exec pavucontrol
