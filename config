@@ -165,3 +165,6 @@ bindsym XF86AudioMute exec pactl set-sink-mute 0 toggle # mute sound
 # Brightness
 bindsym XF86MonBrightnessDown exec .bin/brightness - 500
 bindsym XF86MonBrightnessUp exec .bin/brightness + 500
+
+# Autostart applications/ execute commands
+exec redshift
